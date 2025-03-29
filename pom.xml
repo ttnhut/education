@@ -9,6 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 
 AHSGS
+Nhut
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>demo</artifactId>
